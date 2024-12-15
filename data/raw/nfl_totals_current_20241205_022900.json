@@ -1,0 +1,392 @@
+[
+  {
+    "game_id": "401671814",
+    "date": "2024-12-05 20:15",
+    "week": 14,
+    "home_team": "DET",
+    "away_team": "GB",
+    "home_stats": {
+      "record": "11-1"
+    },
+    "away_stats": {
+      "record": "9-3"
+    },
+    "venue": {
+      "name": "Ford Field",
+      "indoor": true,
+      "city": "Detroit",
+      "state": "MI"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 51.5,
+    "spread": -3.0,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": true,
+    "broadcast": "Prime Video"
+  },
+  {
+    "game_id": "401671821",
+    "date": "2024-12-08 13:00",
+    "week": 14,
+    "home_team": "TEN",
+    "away_team": "JAX",
+    "home_stats": {
+      "record": "3-9"
+    },
+    "away_stats": {
+      "record": "2-10"
+    },
+    "venue": {
+      "name": "Nissan Stadium",
+      "indoor": false,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 39.5,
+    "spread": -3.5,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "CBS"
+  },
+  {
+    "game_id": "401671848",
+    "date": "2024-12-08 13:00",
+    "week": 14,
+    "home_team": "MIA",
+    "away_team": "NYJ",
+    "home_stats": {
+      "record": "5-7"
+    },
+    "away_stats": {
+      "record": "3-9"
+    },
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "indoor": false,
+      "city": "Miami Gardens",
+      "state": "FL"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 44.5,
+    "spread": -6.0,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "CBS"
+  },
+  {
+    "game_id": "401671648",
+    "date": "2024-12-08 13:00",
+    "week": 14,
+    "home_team": "MIN",
+    "away_team": "ATL",
+    "home_stats": {
+      "record": "10-2"
+    },
+    "away_stats": {
+      "record": "6-6"
+    },
+    "venue": {
+      "name": "U.S. Bank Stadium",
+      "indoor": true,
+      "city": "Minneapolis",
+      "state": "MN"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 45.5,
+    "spread": -5.5,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "FOX"
+  },
+  {
+    "game_id": "401671601",
+    "date": "2024-12-08 13:00",
+    "week": 14,
+    "home_team": "NYG",
+    "away_team": "NO",
+    "home_stats": {
+      "record": "2-10"
+    },
+    "away_stats": {
+      "record": "4-8"
+    },
+    "venue": {
+      "name": "MetLife Stadium",
+      "indoor": false,
+      "city": "East Rutherford",
+      "state": "NJ"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 40.5,
+    "spread": 4.5,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "FOX"
+  },
+  {
+    "game_id": "401671713",
+    "date": "2024-12-08 13:00",
+    "week": 14,
+    "home_team": "PHI",
+    "away_team": "CAR",
+    "home_stats": {
+      "record": "10-2"
+    },
+    "away_stats": {
+      "record": "3-9"
+    },
+    "venue": {
+      "name": "Lincoln Financial Field",
+      "indoor": false,
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 45.5,
+    "spread": -13.0,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "FOX"
+  },
+  {
+    "game_id": "401671631",
+    "date": "2024-12-08 13:00",
+    "week": 14,
+    "home_team": "PIT",
+    "away_team": "CLE",
+    "home_stats": {
+      "record": "9-3"
+    },
+    "away_stats": {
+      "record": "3-9"
+    },
+    "venue": {
+      "name": "Acrisure Stadium",
+      "indoor": false,
+      "city": "Pittsburgh",
+      "state": "PA"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 43.5,
+    "spread": -6.5,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "CBS"
+  },
+  {
+    "game_id": "401671654",
+    "date": "2024-12-08 13:00",
+    "week": 14,
+    "home_team": "TB",
+    "away_team": "LV",
+    "home_stats": {
+      "record": "6-6"
+    },
+    "away_stats": {
+      "record": "2-10"
+    },
+    "venue": {
+      "name": "Raymond James Stadium",
+      "indoor": false,
+      "city": "Tampa",
+      "state": "FL"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 46.5,
+    "spread": -6.5,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "CBS"
+  },
+  {
+    "game_id": "401671660",
+    "date": "2024-12-08 16:05",
+    "week": 14,
+    "home_team": "ARI",
+    "away_team": "SEA",
+    "home_stats": {
+      "record": "6-6"
+    },
+    "away_stats": {
+      "record": "7-5"
+    },
+    "venue": {
+      "name": "State Farm Stadium",
+      "indoor": true,
+      "city": "Glendale",
+      "state": "AZ"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 44.5,
+    "spread": -2.5,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "CBS"
+  },
+  {
+    "game_id": "401671773",
+    "date": "2024-12-08 16:25",
+    "week": 14,
+    "home_team": "LAR",
+    "away_team": "BUF",
+    "home_stats": {
+      "record": "6-6"
+    },
+    "away_stats": {
+      "record": "10-2"
+    },
+    "venue": {
+      "name": "SoFi Stadium",
+      "indoor": true,
+      "city": "Inglewood",
+      "state": "CA"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 49.5,
+    "spread": 4.0,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "FOX"
+  },
+  {
+    "game_id": "401671774",
+    "date": "2024-12-08 16:25",
+    "week": 14,
+    "home_team": "SF",
+    "away_team": "CHI",
+    "home_stats": {
+      "record": "5-7"
+    },
+    "away_stats": {
+      "record": "4-8"
+    },
+    "venue": {
+      "name": "Levi's Stadium",
+      "indoor": false,
+      "city": "Santa Clara",
+      "state": "CA"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 43.5,
+    "spread": -4.0,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": false,
+    "broadcast": "FOX"
+  },
+  {
+    "game_id": "401671788",
+    "date": "2024-12-08 20:20",
+    "week": 14,
+    "home_team": "KC",
+    "away_team": "LAC",
+    "home_stats": {
+      "record": "11-1"
+    },
+    "away_stats": {
+      "record": "8-4"
+    },
+    "venue": {
+      "name": "GEHA Field at Arrowhead Stadium",
+      "indoor": false,
+      "city": "Kansas City",
+      "state": "MO"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 42.5,
+    "spread": -4.0,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": true,
+    "broadcast": "NBC"
+  },
+  {
+    "game_id": "401671690",
+    "date": "2024-12-09 20:15",
+    "week": 14,
+    "home_team": "DAL",
+    "away_team": "CIN",
+    "home_stats": {
+      "record": "5-7"
+    },
+    "away_stats": {
+      "record": "4-8"
+    },
+    "venue": {
+      "name": "AT&T Stadium",
+      "indoor": true,
+      "city": "Arlington",
+      "state": "TX"
+    },
+    "weather": {
+      "temperature": null,
+      "conditions": null,
+      "wind": null
+    },
+    "total_line": 49.5,
+    "spread": 5.0,
+    "over_odds": null,
+    "under_odds": null,
+    "is_primetime": true,
+    "broadcast": "ESPN"
+  }
+]

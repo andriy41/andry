@@ -1,0 +1,2 @@
+# Run NFL data updates twice daily at 6 AM and 6 PM
+0 6,18 * * * /Users/space/Downloads/NFL_Project/update_nfl_data.sh >> /Users/space/Downloads/NFL_Project/logs/cron_updates.log 2>&1

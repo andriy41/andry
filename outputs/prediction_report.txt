@@ -1,0 +1,185 @@
+NFL Game Predictions Report
+==============================
+
+
+Game 1: CHI vs LV
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 2: BAL vs DET
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 3: NYG vs WSH
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 4: CLE vs IND
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 5: TB vs ATL
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 6: NE vs BUF
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 7: LV vs GB
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 8: SEA vs ARI
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 9: LAR vs PIT
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 10: DEN vs GB
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 11: KC vs LAC
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 12: PHI vs MIA
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================
+
+Game 13: SF vs MIN
+--------------------------------------------------
+STATISTICAL Model: LOSS (50.0% home win probability)
+BASIC Model: LOSS (50.0% home win probability)
+VEDIC Model: LOSS (50.0% home win probability)
+ALL Model: LOSS (50.0% home win probability)
+
+Model Agreement Analysis:
+Average Home Win Probability: 50.0%
+Model Consensus: High
+Prediction Confidence: Low
+
+==================================================

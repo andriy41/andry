@@ -1,0 +1,14 @@
+game_date,home_team,away_team,home_score,away_score,is_division_game,is_conference_game,is_primetime,home_q1_score,home_q2_score,home_q3_score,home_q4_score,away_q1_score,away_q2_score,away_q3_score,away_q4_score
+2023-10-22,CHI,LV,0,0,false,false,false,0,0,0,0,0,0,0,0
+2023-10-22,BAL,DET,0,0,false,false,false,0,0,0,0,0,0,0,0
+2023-10-22,NYG,WSH,0,0,true,true,false,0,0,0,0,0,0,0,0
+2023-10-22,CLE,IND,0,0,false,false,false,0,0,0,0,0,0,0,0
+2023-10-22,TB,ATL,0,0,true,true,false,0,0,0,0,0,0,0,0
+2023-10-22,NE,BUF,0,0,true,true,false,0,0,0,0,0,0,0,0
+2023-10-22,LV,GB,0,0,false,false,false,0,0,0,0,0,0,0,0
+2023-10-22,SEA,ARI,0,0,true,true,false,0,0,0,0,0,0,0,0
+2023-10-22,LAR,PIT,0,0,false,false,false,0,0,0,0,0,0,0,0
+2023-10-22,DEN,GB,0,0,false,false,false,0,0,0,0,0,0,0,0
+2023-10-22,KC,LAC,0,0,true,true,false,0,0,0,0,0,0,0,0
+2023-10-22,PHI,MIA,0,0,false,false,false,0,0,0,0,0,0,0,0
+2023-10-22,SF,MIN,0,0,false,false,false,0,0,0,0,0,0,0,0
